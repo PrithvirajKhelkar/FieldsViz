@@ -7,3 +7,4 @@
 [submodule "deps/polyscope"]
 	path = deps/polyscope
 	url = git@github.com:nmwsharp/polyscope.git
+	branch = cuda_interop
