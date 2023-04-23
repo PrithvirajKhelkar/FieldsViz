@@ -22,10 +22,8 @@ int main(int argc, char **argv) {
 
   std::vector<std::vector<double>> positions;
   std::vector<std::vector<int>> faces;
-  std::map<int, std::vector<double>> field;
+  std::vector<std::vector<double>> field;
   string line;
-
-  int i = 0;
   while( getline( in, line ))
       {
          std::stringstream ss( line );
@@ -50,8 +48,7 @@ int main(int argc, char **argv) {
             double x, y, z;
             ss >> x >> y >> z;
             std::vector<double> vec{x, y, z};
-            field[i] = vec;
-            i++;
+            field.push_back(vec);
          };
       }
 
@@ -59,8 +56,7 @@ int main(int argc, char **argv) {
 
   psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
 
-  polyscope::getSurfaceMesh("mesh")->addVertexIntrinsicVectorQuantity("great vectors", field);
-
+  polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity("my_vector", field);
   polyscope::show();
 
   return 0;

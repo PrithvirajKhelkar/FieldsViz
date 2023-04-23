@@ -62,7 +62,7 @@ endif()
 
 # == Deps
 # add_subdirectory(deps/fieldgen)
-# add_subdirectory(deps/polyscope)
+add_subdirectory(deps/polyscope)
 # add_subdirectory(deps/tcods)
 
 # == Build our project stuff
@@ -77,6 +77,6 @@ set(SRCS
 add_executable(fieldsviz "${SRCS}")
 target_include_directories(fieldsviz PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/include/")
 
-# target_include_directories(fieldsviz PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/deps/polyscope/deps/args")
+target_include_directories(fieldsviz PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/deps/polyscope/deps/args")
 # target_link_libraries(fieldsviz fieldgen polyscope tcods)
-# target_link_libraries(fieldsviz polyscope)
+target_link_libraries(fieldsviz polyscope)
