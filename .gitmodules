@@ -1,0 +1,9 @@
+[submodule "deps/tcods"]
+	path = deps/tcods
+	url = git@github.com:PrithvirajKhelkar/Trivial-Connections-Modified-for-Linux.git
+[submodule "deps/fieldgen"]
+	path = deps/fieldgen
+	url = git@github.com:PrithvirajKhelkar/fieldgen.git
+[submodule "deps/polyscope"]
+	path = deps/polyscope
+	url = git@github.com:nmwsharp/polyscope.git
