@@ -29,12 +29,69 @@ std::vector<std::vector<double>> positions;
 std::vector<std::vector<int>> faces;
 std::vector<std::vector<double>> field;
 
+std::vector<std::vector<double>> newield;
+
 int lastClickedVertex;
 
 std::vector<int> selectedVertices;
 std::map<int, double> selectedVertexIndexMap;
 int n_rings;
 double angle;
+
+bool curvatureAligned = false;
+bool boundaryAligned = false;
+bool alignmentAligned = false;
+
+int n = 1;
+double s=0;
+double t=0;
+
+bool alignments_generated = false;
+
+void readEOBJ_FaceAttrs(string path, string fieldName) {
+   std::ifstream in(path);
+   string line;
+   int i  = 0;
+   while (getline(in, line))
+   {
+      std::stringstream ss(line);
+      string token;
+
+      ss >> token;
+      if (token == "#attrsf")
+      {
+         double x, y, z;
+         ss >> x >> y >> z;
+         std::vector<double> vec{x, y, z};
+         field.push_back(vec);
+      };
+   }
+   psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
+   polyscope::getSurfaceMesh("mesh")->addFaceVectorQuantity(fieldName, field);
+}
+
+void readOBJ_Fields(string path, string fieldName) {
+   std::ifstream in(path);
+   string line;
+   int i  = 0;
+   while (getline(in, line))
+   {
+      std::stringstream ss(line);
+      string token;
+
+      ss >> token;
+      if (token == "#attrsf")
+      {
+         double x, y, z;
+         ss >> x >> y >> z;
+         std::vector<double> vec{x, y, z};
+         field.push_back(vec);
+      };
+   }
+   psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
+   polyscope::getSurfaceMesh("mesh")->addFaceVectorQuantity(fieldName, field);
+}
+
 
 void run_tcods(){
    ofstream myfile;
@@ -51,6 +108,32 @@ void run_tcods(){
 
    system("../run_tcods.sh");
 
+   readEOBJ_FaceAttrs("../test/temp_obj.eobj", "alignment fields");
+   alignments_generated = true;
+}
+
+void run_fieldgen(){
+   string args = "../run_fieldgen.sh " + std::to_string(n)+" ";
+   if(curvatureAligned==true){
+      args += "--alignToCurvature ";
+   } else {
+      args += "''";
+   }
+   if(boundaryAligned==true){
+      args += "--alignToBoundary ";
+   } else {
+      args += "''";
+   }
+   if(alignmentAligned==true){
+      args += "''";
+   } else {
+      args += "''";
+   }
+   args += "--s="+std::to_string(s)+" ";
+   args += "--t="+std::to_string(t);
+   system(args.c_str());
+
+   readOBJ_Fields("../test/final_fields.obj", "vector fields");
 }
 
 std::vector<std::vector<double>> getSingularitiesList() {
@@ -122,61 +205,6 @@ void polyscope::buildPickGui() {
   }
 }
 
-void polyscope::buildStructureGui() {
-  // Create window
-  static bool showStructureWindow = true;
-
-  ImGui::SetNextWindowPos(ImVec2(imguiStackMargin, lastWindowHeightPolyscope + 2 * imguiStackMargin));
-  ImGui::SetNextWindowSize(
-      ImVec2(leftWindowsWidth, view::windowHeight - lastWindowHeightPolyscope - 3 * imguiStackMargin));
-
-  ImGui::Begin("Structures boii", &showStructureWindow);
-
-  // only show groups if there are any
-  if (state::groups.size() > 0) {
-    if (ImGui::CollapsingHeader("Groups", ImGuiTreeNodeFlags_DefaultOpen)) {
-      for (auto x : state::groups) {
-        if (x.second->isRootGroup()) {
-          x.second->buildUI();
-        }
-      }
-    }
-  }
-
-  for (auto catMapEntry : state::structures) {
-    std::string catName = catMapEntry.first;
-
-    std::map<std::string, Structure*>& structureMap = catMapEntry.second;
-
-    ImGui::PushID(catName.c_str()); // ensure there are no conflicts with
-                                    // identically-named labels
-
-    // Build the structure's UI
-   // buildTCODSGUI();
-
-    ImGui::SetNextTreeNodeOpen(structureMap.size() > 0, ImGuiCond_FirstUseEver);
-    if (ImGui::CollapsingHeader((catName + " (" + std::to_string(structureMap.size()) + ")").c_str())) {
-      // Draw shared GUI elements for all instances of the structure
-      if (structureMap.size() > 0) {
-        structureMap.begin()->second->buildSharedStructureUI();
-      }
-
-      for (auto x : structureMap) {
-        ImGui::SetNextTreeNodeOpen(structureMap.size() <= 8,
-                                   ImGuiCond_FirstUseEver); // closed by default if more than 8
-        x.second->buildUI();
-      }
-    }
-
-    ImGui::PopID();
-  }
-
-  leftWindowsWidth = ImGui::GetWindowWidth();
-
-  ImGui::End();
-}
-
-
 void polyscope::PointCloud::buildCustomUI() {
   ImGui::Text("# points: %lld", static_cast<long long int>(nPoints()));
   if (ImGui::ColorEdit3("Point color", &pointColor.get()[0], ImGuiColorEditFlags_NoInputs)) {
@@ -208,22 +236,25 @@ void polyscope::PointCloud::buildCustomUI() {
       // int status = system("../run_tcods.sh");
       run_tcods();
    }
+
+   if (alignments_generated) {
+      ImGui::InputInt("n", &n);
+
+      ImGui::Checkbox("Curvature Aligned", &curvatureAligned);
+      ImGui::Checkbox("Boundary Aligned", &boundaryAligned);
+      ImGui::Checkbox("User Field Aligned", &alignmentAligned);
+
+      ImGui::InputDouble("s", &s);
+      ImGui::InputDouble("t", &t);
+      if (ImGui::Button("Calculate Fields")){
+         run_fieldgen();
+      }
+   }
 }
 
-
-
-
-int main(int argc, char **argv)
-{
-
-   // system("../run_tcods.sh");
-   std::string filename = argv[1];
-   input_file_path = filename;
-   std::ifstream in(filename);
-
-   
+void readOBJ() {
+   std::ifstream in(input_file_path);
    string line;
-
    int i  = 0;
    while (getline(in, line))
    {
@@ -234,13 +265,11 @@ int main(int argc, char **argv)
 
       if (token == "v")
       {
-
          double x, y, z;
          ss >> x >> y >> z;
          std::vector<double> vec{x, y, z};
          positions.push_back(vec);
          vertexMap[i] = vec;
-
          i++;
       };
       if (token == "f")
@@ -250,23 +279,21 @@ int main(int argc, char **argv)
          std::vector<int> face{v1 - 1, v2 - 1, v3 - 1};
          faces.push_back(face);
       };
-      if (token == "#attrsf")
-      {
-         double x, y, z;
-         ss >> x >> y >> z;
-         std::vector<double> vec{x, y, z};
-         field.push_back(vec);
-      };
    }
-
-   
-   // polyscope::buildPickGui = newBuildPickGui;
-
-   polyscope::init();
-
    psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
+}
 
-   // polyscope::getSurfaceMesh("mesh")->addFaceVectorQuantity("my_vector", field);
+
+
+
+
+int main(int argc, char **argv)
+{
+
+   std::string filename = argv[1];
+   input_file_path = filename;
+   polyscope::init();
+   readOBJ();
 
    polyscope::show();
 

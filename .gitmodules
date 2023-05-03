@@ -4,3 +4,6 @@
 [submodule "deps/fieldgen"]
 	path = deps/fieldgen
 	url = git@github.com:PrithvirajKhelkar/fieldgen.git
+[submodule "deps/polyscope"]
+	path = deps/polyscope
+	url = https://github.com/nmwsharp/polyscope.git
