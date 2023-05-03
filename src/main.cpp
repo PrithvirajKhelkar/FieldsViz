@@ -29,7 +29,8 @@ std::vector<std::vector<double>> positions;
 std::vector<std::vector<int>> faces;
 std::vector<std::vector<double>> field;
 
-std::vector<std::vector<double>> newield;
+std::map<string, std::vector<std::vector<double>>> vectorFields;
+std::map<string, std::map<int, double>> vectorSingularities;
 
 int lastClickedVertex;
 
@@ -38,9 +39,11 @@ std::map<int, double> selectedVertexIndexMap;
 int n_rings;
 double angle;
 
-bool curvatureAligned = false;
-bool boundaryAligned = false;
-bool alignmentAligned = false;
+string SMOOTHEST = "smoothest";
+string CURVATURE = "curvature";
+string BOUNDARY = "boundary";
+string ALIGNMENT = "alignment";
+string mode = SMOOTHEST;
 
 int n = 1;
 double s=0;
@@ -48,7 +51,34 @@ double t=0;
 
 bool alignments_generated = false;
 
+
+void showSingularities(string fieldName = "") {
+   std::map<int, double> temp;
+
+   if (fieldName == "") {
+      temp = selectedVertexIndexMap;
+   } else {
+      temp = vectorSingularities[fieldName];
+   }
+
+   std::vector<std::vector<double>> singularities;
+   std::vector<double> indices;
+
+   for (const auto& key : temp) {
+      int v = key.first;
+      double index = key.second;
+      singularities.push_back(vertexMap[v]);
+      indices.push_back(index);
+   }
+
+   psCloud = polyscope::registerPointCloud((fieldName+"_singularities").c_str(), singularities);
+   polyscope::getPointCloud((fieldName+"_singularities").c_str())->addScalarQuantity("holonomy", indices);
+   psCloud->setPointRadius(0.005);
+}
+
+
 void readEOBJ_FaceAttrs(string path, string fieldName) {
+   field.clear();
    std::ifstream in(path);
    string line;
    int i  = 0;
@@ -66,11 +96,12 @@ void readEOBJ_FaceAttrs(string path, string fieldName) {
          field.push_back(vec);
       };
    }
-   psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
    polyscope::getSurfaceMesh("mesh")->addFaceVectorQuantity(fieldName, field);
 }
 
 void readOBJ_Fields(string path, string fieldName) {
+   vectorFields[fieldName].clear();
+   // vectorSingularities[fieldName].clear();
    std::ifstream in(path);
    string line;
    int i  = 0;
@@ -80,16 +111,25 @@ void readOBJ_Fields(string path, string fieldName) {
       string token;
 
       ss >> token;
-      if (token == "#attrsf")
+      if (token == "#field")
       {
+         int i;
          double x, y, z;
-         ss >> x >> y >> z;
+         ss >> i >> x >> y >> z;
          std::vector<double> vec{x, y, z};
-         field.push_back(vec);
+         vectorFields[fieldName].push_back(vec);
       };
+      if(token == "#singularity") {
+         int i;
+         double j;
+         ss >> i >> j;
+         vectorSingularities[fieldName][faces[i-1][0]] = j;
+         
+      }
    }
-   psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
-   polyscope::getSurfaceMesh("mesh")->addFaceVectorQuantity(fieldName, field);
+   polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(fieldName, vectorFields[fieldName]);
+   showSingularities(fieldName);
+
 }
 
 
@@ -114,36 +154,33 @@ void run_tcods(){
 
 void run_fieldgen(){
    string args = "../run_fieldgen.sh " + std::to_string(n)+" ";
-   if(curvatureAligned==true){
+   string name = "smoothest";
+
+   if (mode == SMOOTHEST) {
+      args += "''";
+      name = "smoothest";
+   }
+   else if(mode == CURVATURE){
       args += "--alignToCurvature ";
-   } else {
-      args += "''";
-   }
-   if(boundaryAligned==true){
+      name = "curvature_aligned";
+   } 
+   else if(mode == BOUNDARY){
       args += "--alignToBoundary ";
+      name = "boundary_aligned";
+   } else if(mode == ALIGNMENT){
+      args += "--alignToGivenField";
+      name = "alignment_aligned";
    } else {
       args += "''";
    }
-   if(alignmentAligned==true){
-      args += "''";
-   } else {
-      args += "''";
-   }
-   args += "--s="+std::to_string(s)+" ";
-   args += "--t="+std::to_string(t);
+   args += " "+std::to_string(s);
+   args += " "+std::to_string(t);
    system(args.c_str());
 
-   readOBJ_Fields("../test/final_fields.obj", "vector fields");
+   readOBJ_Fields("../test/final_fields.obj", name);
 }
 
-std::vector<std::vector<double>> getSingularitiesList() {
-   std::vector<std::vector<double>> singularities;
-   for (int i = 0; i < selectedVertices.size(); i++) {
-      int index = selectedVertices[i];
-      singularities.push_back(vertexMap[index]);
-   }
-   return singularities;
-}
+
 
 bool removeIndexFromSelectedVertices(int index) {
    std::vector<int>::iterator it = std::find(selectedVertices.begin(), selectedVertices.end(), index);
@@ -168,12 +205,10 @@ void vertexClickEvent(int index) {
       // if it is then remove it.
       if (!removeIndexFromSelectedVertices(index)) {
         selectedVertices.push_back(index);
-        selectedVertexIndexMap[index] = 0;
+        selectedVertexIndexMap[index] = 0.0;
       }
 
-      psCloud = polyscope::registerPointCloud("Singularities", getSingularitiesList());
-      // set some options
-      psCloud->setPointRadius(0.005);
+      showSingularities("");
    }
 }
 
@@ -198,8 +233,8 @@ void polyscope::buildPickGui() {
     ImGui::TextUnformatted((selection.first->typeName() + ": " + selection.first->name).c_str());
     ImGui::Separator();
     selection.first->buildPickUI(selection.second);
-
-    vertexClickEvent(selection.second);
+    if(selection.first->name == "mesh"){vertexClickEvent(selection.second);}
+    
     rightWindowsWidth = ImGui::GetWindowWidth();
     ImGui::End();
   }
@@ -218,38 +253,47 @@ void polyscope::PointCloud::buildCustomUI() {
     requestRedraw();
   }
   ImGui::PopItemWidth();
-
-   for (int i = 0; i < selectedVertices.size(); i++) {
-         int index = selectedVertices[i];
-         ImGui::TextUnformatted(std::to_string(index).c_str());
-         double& val = selectedVertexIndexMap[index];
-         ImGui::InputDouble("Index", &val);
-         ImGui::Separator();
-   }
-
-   ImGui::Separator();
-
-   ImGui::InputDouble("Angle", &angle);
-   ImGui::InputInt("N Rings", &n_rings);
-
-   if (ImGui::Button("Calculate Alignment Fields")){
-      // int status = system("../run_tcods.sh");
-      run_tcods();
-   }
-
-   if (alignments_generated) {
-      ImGui::InputInt("n", &n);
-
-      ImGui::Checkbox("Curvature Aligned", &curvatureAligned);
-      ImGui::Checkbox("Boundary Aligned", &boundaryAligned);
-      ImGui::Checkbox("User Field Aligned", &alignmentAligned);
-
-      ImGui::InputDouble("s", &s);
-      ImGui::InputDouble("t", &t);
-      if (ImGui::Button("Calculate Fields")){
-         run_fieldgen();
+  if(name=="_singularities"){
+      for (int i = 0; i < selectedVertices.size(); ++i) {
+            int index = selectedVertices[i];
+            ImGui::TextUnformatted(std::to_string(index).c_str());
+            ImGui::InputDouble(("Index_"+std::to_string(index)).c_str(), &selectedVertexIndexMap[index]);
+            ImGui::Separator();
       }
-   }
+
+      ImGui::Separator();
+
+      ImGui::InputDouble("Angle", &angle);
+      ImGui::InputInt("N Rings", &n_rings);
+
+      if (ImGui::Button("Calculate Alignment Fields")){
+         // int status = system("../run_tcods.sh");
+         run_tcods();
+      }
+
+      if (alignments_generated) {
+         ImGui::InputInt("n", &n);
+         string align = " align";
+         if(ImGui::RadioButton((SMOOTHEST+align).c_str(), mode == SMOOTHEST)){
+            mode = SMOOTHEST;
+         };
+         // if(ImGui::RadioButton((CURVATURE+align).c_str(), mode == CURVATURE)){
+         //    mode = CURVATURE;
+         // };
+         // if(ImGui::RadioButton((BOUNDARY+align).c_str(), mode == BOUNDARY)){
+         //    mode = BOUNDARY;
+         // };
+         if(ImGui::RadioButton((ALIGNMENT+align).c_str(), mode == ALIGNMENT)){
+            mode = ALIGNMENT;
+         };
+
+         ImGui::InputDouble("s", &s);
+         ImGui::InputDouble("t", &t);
+         if (ImGui::Button("Calculate Fields")){
+            run_fieldgen();
+         }
+      }
+  }
 }
 
 void readOBJ() {

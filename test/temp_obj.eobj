@@ -42864,7 +42864,6 @@ f 1574 1727 1729
 f 9627 9657 977 
 f 2710 7220 2711 
 f 11749 3210 11164 
-#attrsf 0.7216069367 -0.6923029817 3.939762703e-05
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43148,7 +43147,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9640251224 -0.1687103434 -0.2054077153
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43252,7 +43250,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5997501032 -0.6002527486 -0.5291468902
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43347,7 +43344,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.03122474397 -0.9855764715 0.1663250639
 #attrsf 0 0 0
+#attrsf -0.1844182563 -0.7897654617 0.5850302988
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43356,6 +43355,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8175641846 0.2436348358 -0.5217574017
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43472,6 +43472,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8981010479 -0.3300578078 0.2906481448
+#attrsf -0.1425260343 0.9872246024 -0.07123122897
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43514,6 +43516,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8794156405 -0.3212228675 0.3513461338
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43647,7 +43650,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9659720046 -0.2248305005 -0.1278642742
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43661,12 +43663,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.736235304 -0.2488866558 0.6292957363
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7221982759 -0.5184173307 0.45790086
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43691,7 +43693,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6438574812 0.308332918 -0.7002702255
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43732,7 +43733,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5193183171 0.6827130904 0.5140149117
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -43767,6 +43767,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9625499037 -0.06046927527 0.2642748882
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44090,6 +44091,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9995754534 0.003983828748 0.02886418255
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44107,6 +44109,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.0008754895384 0.9522129772 -0.3054335063
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44261,6 +44264,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4037156856 -0.7047820133 0.5833489204
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44434,6 +44438,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8284746069 0.5598560641 0.01382095303
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44470,6 +44475,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5073497874 -0.6647960869 0.548308657
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44522,6 +44528,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3532779193 -0.7501172382 -0.5590338809
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44643,6 +44650,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.05191797475 -0.879982529 0.4721601746
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44725,11 +44733,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8888855887 0.341830231 0.305015592
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7518114445 -0.4436052195 0.4878461319
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44773,6 +44783,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3458178701 -0.9233716354 -0.1667176907
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44795,6 +44806,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9112489271 -0.3417661773 -0.2298284139
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -44946,6 +44958,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3284580346 -0.7205428432 0.6106826887
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45016,6 +45029,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6193291536 -0.594385022 0.5129696487
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45036,7 +45050,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3720229268 0.7130204687 -0.5943069695
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45067,6 +45080,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9215457163 -0.2612043879 -0.2872731695
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45084,6 +45098,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1007786914 -0.9122197297 0.3971130999
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45096,6 +45111,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9580514618 -0.1478429855 -0.2455197575
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45155,6 +45171,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2546220608 0.3362461186 -0.9067006889
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45291,6 +45308,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5544000987 -0.6166721738 0.5588881452
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45332,6 +45350,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5522521982 0.7784788851 -0.2983087241
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45462,7 +45481,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3950329343 0.8087475273 -0.4357480891
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45499,7 +45517,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9346060125 0.159004643 -0.3181652249
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45815,7 +45832,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9602075807 -0.1317524931 -0.2462572601
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45835,7 +45851,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9723382415 -0.173341655 -0.1565601061
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45922,6 +45937,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8173271897 0.5754151917 -0.02955600434
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -45987,6 +46003,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7247040251 0.1221896934 -0.6781399587
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46048,6 +46065,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9503457234 0.2882737775 0.1172231753
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46125,6 +46143,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8830468089 -0.3609014638 -0.2999640973
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46330,6 +46349,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5360551255 -0.5921872623 0.6016304057
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46372,6 +46392,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9232857582 -0.3297898978 0.196931678
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46387,6 +46408,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7000987889 0.3129133136 -0.6418307829
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46480,6 +46502,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5765272871 -0.6481695799 0.4974861647
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46526,10 +46549,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9826963662 0.1831430072 -0.02768563527
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5407698092 0.2360717188 -0.8073649116
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46628,6 +46653,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5484499933 0.8312655641 0.09055475948
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46656,6 +46682,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7974577433 0.0810503745 -0.5979063186
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46738,9 +46765,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6508402478 0.4458934037 -0.6144803304
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9465374199 -0.2481970285 0.2060708273
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46761,10 +46790,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9198993885 0.3781173309 0.1039822788
 #attrsf 0 0 0
-#attrsf -0.6986733862 0.527511721 0.4833082491
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3886443482 0.8293971348 -0.4013179329
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46777,12 +46807,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7074855079 0.6842726449 0.1767349749
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9561435484 0.2777013959 -0.09312071228
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46864,7 +46896,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4279911321 -0.8885931969 -0.1650019817
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46923,6 +46954,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4613897972 -0.7210563967 0.5169112295
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -46979,6 +47011,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8844135333 -0.08284841377 -0.4592917375
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47066,8 +47099,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.003571026915 0.9798723024 -0.1995933684
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.125405893 0.9826859958 -0.1363878129
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47180,10 +47215,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8212075269 -0.07142656751 -0.5661417006
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9326914946 0.3599988741 0.02207727405
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47205,6 +47242,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8403630569 0.2987729036 -0.4522440201
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47340,6 +47378,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6758933184 0.3632867542 -0.6412417332
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47367,6 +47406,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8737569167 0.4335885763 0.2203400448
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47520,8 +47560,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4924072761 0.4927525379 -0.7174468895
 #attrsf 0 0 0
-#attrsf 0.04172662089 -0.9755558225 -0.2157537232
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47666,6 +47706,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8604560386 0.5065777602 -0.05472060488
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47714,7 +47755,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2676654107 0.8614549189 -0.4315677241
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47911,6 +47951,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8677039199 -0.3481109242 0.3548361727
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -47974,6 +48015,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2799127036 0.9382117952 -0.2034881852
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48035,7 +48077,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4831343915 0.8562185778 -0.1829504262
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48079,7 +48120,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.6797412027 0.7323529012 -0.0401390058
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48153,13 +48193,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.91711517 -0.1406678112 0.3729776005
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.3273575354 -0.9229110972 -0.2026626828
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48183,7 +48223,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3375344178 -0.7925520984 0.5078697113
 #attrsf 0 0 0
+#attrsf -0.09535423556 -0.7267109959 0.6802930499
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48244,7 +48286,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7788494927 -0.1193605314 0.6157488038
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48335,14 +48376,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4007101442 -0.77613659 0.4868710559
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4856335714 0.2149908717 -0.8473128304
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7707167235 -0.3241507502 0.5485636497
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48363,7 +48403,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.601902342 -0.3261323049 0.7289384799
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48383,7 +48422,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5235027168 -0.4852102422 0.7003683345
+#attrsf 0.9885258532 0.01224648777 0.1505544745
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48402,7 +48441,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4803598571 -0.7373009066 0.4750176128
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48413,11 +48451,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7702999676 0.1523768548 -0.61920856
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9345831661 0.3301645199 0.1324600734
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48476,7 +48516,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6686666176 0.5479808842 -0.5025951571
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48489,6 +48528,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2720629527 -0.5752419019 -0.7714133437
+#attrsf 0.5676598753 -0.7610193235 0.3140251535
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48524,7 +48565,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5206124308 -0.7857317271 -0.3340484174
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48535,6 +48575,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1791885404 0.9837885656 0.007174644736
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48569,7 +48610,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5220728647 -0.6790665069 0.5160509475
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48621,6 +48661,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8390716447 0.5422301818 0.0441049532
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48643,7 +48684,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7091564988 -0.5911431479 0.3842483304
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48688,7 +48728,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.482430791 -0.3731859702 -0.7924599464
 #attrsf 0 0 0
+#attrsf -0.862123858 0.4240384388 0.277369443
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48735,6 +48777,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7381221065 0.4082733672 -0.5371114645
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48774,6 +48817,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5534690854 -0.7153765704 0.4265071781
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48792,6 +48836,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8513937293 -0.2275328497 -0.4726071357
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48803,6 +48848,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3280918843 0.5059187189 -0.7977480328
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48871,6 +48917,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9815803797 0.1855587185 -0.04547419141
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48878,12 +48925,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6131364092 -0.596163856 0.5183169434
 #attrsf 0 0 0
-#attrsf 0.411232835 0.3780394744 -0.8294418128
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7587030259 -0.5363885135 -0.3696715984
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48893,9 +48939,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6668610817 -0.5370990682 0.5165470738
 #attrsf 0 0 0
-#attrsf 0.9571560143 -0.2700496796 -0.1045250607
 #attrsf 0 0 0
+#attrsf 0.8270240505 -0.03639637553 -0.5609871187
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -48919,6 +48966,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8125626745 0.3315132992 -0.4794171173
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49039,17 +49087,18 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.173714384 -0.7332188511 0.6574294968
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9804581004 -0.1459010829 0.1319650005
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8066980636 -0.590067398 0.03253813626
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49090,8 +49139,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.06816726618 0.8886602746 -0.4534711239
 #attrsf 0 0 0
+#attrsf 0.6911047022 -0.5890132778 0.4188526312
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49163,7 +49212,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4091565091 0.8544619771 -0.3201338409
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49183,7 +49231,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9206122806 -0.3891381031 0.03231996612
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49200,13 +49247,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7606968639 -0.3741130978 0.5304523259
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5853196224 0.6315613925 -0.5084595847
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2323489505 -0.7163426667 0.6579264167
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49216,7 +49264,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.6633403712 -0.7474995819 -0.03498499696
+#attrsf -0.102404284 -0.8598086683 0.5002423348
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49228,12 +49276,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9525770133 -0.2778503081 0.1240816006
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.00998083317 -0.7287380009 0.6847198931
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49284,7 +49334,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8519279494 0.1868851516 0.4891755382
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49324,6 +49373,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8156430077 -0.3406850667 -0.4676111247
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49365,13 +49415,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4216175786 -0.7118994948 0.5616384918
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4102460641 0.7225589397 -0.5564231526
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49383,7 +49433,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3273692176 -0.7968831706 -0.5077464976
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49397,6 +49446,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1421872466 0.9288019237 -0.3422130975
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49538,6 +49588,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4681417129 -0.7474681161 0.4713116741
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49690,13 +49741,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8232635319 0.5655317944 -0.04910167256
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.53102195 -0.5069979763 -0.6789467732
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49829,7 +49880,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8500032035 0.4892800719 0.1951912838
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49837,6 +49887,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2301614209 0.7689617226 -0.5964256948
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49846,9 +49897,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6531670726 0.7508260697 0.0981476549
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9147188266 -0.3010449594 0.2695577682
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -49862,6 +49915,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5942277741 0.7917940103 0.1412640582
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50005,11 +50059,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1369288748 -0.8097839689 0.5705264535
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9983417785 -0.04405563127 0.03705259392
 #attrsf 0 0 0
+#attrsf 0.1384204821 -0.7399349687 0.6582826341
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50042,7 +50099,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4247993012 -0.8483190817 -0.3160700223
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50058,7 +50114,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9451894996 0.04322982684 -0.3236478328
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50083,7 +50138,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8545723085 0.3755053911 -0.3587504194
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50116,6 +50170,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8555737853 -0.4086533424 0.317798699
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50126,6 +50181,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.91713573 -0.2508932596 0.3097010207
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50163,6 +50219,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9002464596 0.3264956015 0.2880224783
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50183,6 +50240,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5197925026 0.7515519391 -0.4061840731
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50202,7 +50260,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5826186721 -0.8124882645 0.02045350284
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50286,6 +50343,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.982848965 -0.1614151278 0.08918001824
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50316,9 +50374,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.3140824588 0.8745323008 -0.3695206385
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7153890077 -0.5041279107 0.4838115476
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50340,6 +50398,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9561624275 -0.08437604258 0.2804177611
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50399,7 +50458,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6901255813 0.6299965238 -0.356133389
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50444,7 +50502,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8489774216 0.2274436985 0.4769766716
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50504,6 +50561,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8537685818 -0.2447465457 0.4595414481
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50559,7 +50617,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8196750041 0.5518251627 -0.1536939766
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50638,6 +50695,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8735671582 -0.4429860429 0.2016032439
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50660,6 +50718,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5535530526 -0.7147813382 0.4273951799
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50812,6 +50871,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8415818435 -0.4153580833 0.3452790772
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50824,7 +50884,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5290532319 -0.6766561008 0.5120930004
 #attrsf 0 0 0
+#attrsf 0.4771809071 -0.6733169958 0.5647499936
+#attrsf 0.5064308106 -0.839724488 0.1959352227
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50839,7 +50902,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.665807133 -0.5195387041 0.5355188448
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -50992,7 +51054,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6628120194 -0.3073099542 -0.682818292
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51057,6 +51118,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5349104717 0.4384760046 -0.7222254831
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51140,6 +51202,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7242481586 0.429550091 -0.5393990328
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51201,7 +51264,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9353248903 0.1269039807 -0.3302463728
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51286,6 +51348,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.008111997141 0.8612784146 -0.5080686149
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51468,6 +51531,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4342784021 0.8972445233 0.0797148043
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51498,7 +51562,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7143599992 -0.02750656647 0.6992376168
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51567,11 +51630,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.05151243946 -0.4872956414 0.8717164277
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3471778428 -0.6775903104 0.6483354806
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51696,6 +51757,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1794704737 -0.7864528647 0.5910010992
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51786,6 +51848,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6509916918 0.7538120541 -0.08931501902
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51826,7 +51889,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3362413198 0.8188484294 -0.4652193424
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51943,6 +52005,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7900758732 0.5593844964 0.2507372304
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -51970,6 +52033,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6757664618 -0.6022574093 0.4250008594
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52054,6 +52118,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6368658161 0.3389131276 -0.6924881132
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52077,6 +52142,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1273153356 0.8436572586 -0.521568078
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52174,7 +52240,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.3105405598 -0.4453348579 0.8397864892
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52240,11 +52305,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4250780832 0.860438775 -0.280986974
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.06563198007 -0.7490054591 0.6593051992
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52289,6 +52356,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4643674491 -0.622940648 0.6295298327
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52329,6 +52397,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8337536983 0.5201165265 -0.1852931921
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52336,6 +52405,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7695582356 -0.4922955908 0.4067248826
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52349,6 +52419,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.0222920245 -0.8232842064 0.5671913908
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52493,6 +52564,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9038702024 -0.3154087377 0.2890259672
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52566,8 +52638,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4683094711 -0.2292662903 -0.8533013036
 #attrsf 0 0 0
+#attrsf -0.3246138651 -0.7059657609 0.6294745222
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52595,6 +52667,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3984691419 0.3128581387 -0.8621729441
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52667,6 +52740,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6620365879 0.2639218018 -0.701464803
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52683,9 +52757,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.905310873 0.3939114162 -0.1588901572
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9333602635 0.3349059442 -0.1291378797
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52742,7 +52818,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.1288482064 0.8896828262 -0.4380213316
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52756,6 +52831,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9203952086 -0.1510143061 -0.3606485629
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52776,19 +52852,20 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3670497232 -0.868352703 -0.3335238523
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8294663575 0.5223425669 0.1978479163
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.07323529214 -0.7622214658 0.6431601907
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52849,7 +52926,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9791686567 0.182378466 -0.08925718586
 #attrsf 0 0 0
+#attrsf -0.2874015267 0.4226585633 -0.8595115182
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52871,7 +52950,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3357267828 0.6841756887 -0.6474497721
 #attrsf 0 0 0
+#attrsf 0.9956875949 0.08359932466 -0.04021635237
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52880,13 +52961,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.990317856 0.1367540442 0.02385064321
 #attrsf 0 0 0
-#attrsf -0.3176456921 0.8865561536 -0.3363322514
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9546599075 -0.122189686 -0.2714666926
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52915,6 +52995,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.390087273 0.5773258989 -0.7173051885
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52969,6 +53050,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.009273224749 -0.8459210663 0.5332274663
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -52986,7 +53068,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4186033793 0.8727699634 -0.251085217
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53003,6 +53084,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8991635791 -0.00560245863 -0.4375768845
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53037,14 +53119,15 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8854585486 -0.3952686751 0.244388634
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7246128405 0.6831996813 0.09041289246
 #attrsf 0 0 0
-#attrsf 0.9795106015 -0.07499498093 -0.1869085423
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53134,7 +53217,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6772446552 -0.668791146 0.3066888871
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53145,6 +53227,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5013748727 -0.6611184387 0.558162583
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53195,12 +53278,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6933109223 -0.5309298617 0.4872714331
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3586015373 -0.7947607402 0.4896532376
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53216,6 +53301,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7773190448 -0.4918104118 0.3922978591
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53247,7 +53333,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7351453224 -0.6441981507 0.2111162225
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53275,6 +53360,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8867288678 -0.3749982777 0.2703484075
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53294,6 +53380,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9990875292 -0.02446250027 0.03501007968
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53329,6 +53416,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5266858563 0.8035369642 -0.2773632175
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53461,7 +53549,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3879887782 0.3136515226 -0.8666530285
 #attrsf 0 0 0
+#attrsf 0.6484880703 0.7560824228 -0.08833251967
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53486,11 +53576,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7686573846 0.6343759339 -0.08205481347
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9877658214 0.07466620983 0.136907671
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53530,13 +53622,16 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.901497286 0.2109985124 -0.3778653542
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.01179269725 -0.8821871693 0.4707512459
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.469178077 0.4341578014 -0.7690116492
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53552,6 +53647,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4866640274 0.8198917974 -0.3015551346
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53560,7 +53656,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.05612750461 -0.5749776001 0.8162416647
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53568,6 +53663,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1102297504 0.3669871507 -0.9236719345
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53620,7 +53716,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.638815988 0.6285597987 -0.44365156
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53632,6 +53727,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2714301711 0.955048693 -0.1191953269
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53644,6 +53740,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8811336216 0.44375021 0.1633685219
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53680,6 +53777,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8464092978 0.5173899599 0.1260909849
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53709,11 +53807,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.1268859804 -0.5592453755 0.8192340753
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6477289116 -0.10968582 -0.753933845
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53809,6 +53905,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9864941237 0.1477021373 0.07080601715
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53869,11 +53966,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2593868888 0.9236980196 -0.2819579592
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.03104796829 -0.7162363034 0.6971668287
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53943,6 +54040,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7916878448 0.2093013875 -0.5739541188
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53987,7 +54085,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.236757975 -0.5858249735 0.7750837743
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -53997,6 +54094,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6337902814 -0.684186172 0.3608312388
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54147,8 +54245,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4281041196 0.902134316 0.05367035879
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3108096928 -0.8696816698 0.3834724204
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54248,6 +54348,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8315690609 -0.5382276276 0.1371272102
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54361,6 +54462,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7899290484 -0.4941789342 0.3630417099
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54462,6 +54564,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6033019779 -0.5792480915 0.5481773273
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54488,6 +54591,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9655696453 -0.1487570561 0.2134163576
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54570,6 +54674,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8531992873 -0.520053261 -0.03994480241
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54613,6 +54718,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9764633555 0.209187863 0.05253339129
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54622,6 +54728,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5372075479 -0.6326159554 0.5578576521
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54638,7 +54745,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8183243254 -0.50694051 0.270844231
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54654,6 +54760,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5576955575 0.8252143351 -0.08942555125
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54762,14 +54869,17 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4345902866 -0.2612764111 0.8618966863
+#attrsf 0.8400961411 -0.4093329123 0.3559283693
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9758196516 -0.04325167601 0.2142551036
+#attrsf -0.9104289378 -0.2567756765 0.3243229575
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3137688236 0.9279749861 -0.2010262774
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54804,6 +54914,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5422846994 -0.3085301143 -0.7814963337
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54816,7 +54927,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7976586424 0.1710131065 0.5783556011
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54844,7 +54954,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.133902901 -0.4300933608 0.8927988859
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54918,7 +55027,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5309942652 0.5506782591 -0.6440485534
 #attrsf 0 0 0
+#attrsf -0.3183698792 -0.6806354891 0.6598302032
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54926,6 +55037,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7741250904 -0.4753200544 0.4180922888
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54942,10 +55054,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4360217099 -0.6833899015 0.5855453187
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7150534895 0.6756946421 0.1792631117
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -54958,8 +55072,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5797891897 0.8146441505 0.0141194528
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.936247082 -0.05047228845 0.347698109
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55019,6 +55135,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9520497598 0.1163573195 -0.2829525657
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55054,7 +55171,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3211668912 -0.878163745 0.3545141558
 #attrsf 0 0 0
+#attrsf 0.164400901 0.952796158 -0.2552485079
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55067,6 +55186,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2356615081 0.8621944278 -0.4484242487
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55161,6 +55281,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8678373296 0.2736829057 -0.4146757579
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55189,6 +55310,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9420935672 0.3176796234 -0.1074214496
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55197,18 +55319,25 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3637973665 0.8678540858 -0.3383499906
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5803286087 0.749593626 -0.3183208342
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6475805633 -0.586240791 0.4867866112
 #attrsf 0 0 0
+#attrsf 0.9820290466 0.1790601586 -0.05963485346
 #attrsf 0 0 0
+#attrsf 0.7292234194 0.6841655128 -0.01228061615
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9652980931 -0.09622899486 0.2427748585
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8814019682 -0.4072285256 0.2393648312
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55248,7 +55377,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.2348695473 0.9216799951 -0.3087755335
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55290,7 +55418,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7530402381 0.4490635958 -0.4809077796
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55321,20 +55448,25 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7792389669 0.6262350897 0.02482621636
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9942926638 -0.07953687109 0.07110560524
+#attrsf 0.1569486749 0.962756358 -0.2201527247
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.916559663 0.3994225486 -0.01949529213
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3115797513 -0.7432871951 0.5919815997
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55432,6 +55564,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2323458433 0.3589691604 -0.903967107
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55444,9 +55577,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6307627791 0.7759744949 0.001391020623
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1391933708 0.8537511603 -0.5017311128
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55454,7 +55589,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5401602598 0.6481192411 -0.5368131364
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55498,6 +55632,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2447189013 0.4340085931 -0.8670346988
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55547,7 +55682,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7980055061 0.447864494 -0.4032427394
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55568,6 +55702,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2681407138 -0.8767213268 0.3993248224
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55616,6 +55751,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9864378285 0.127926426 0.1028359422
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55694,6 +55830,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8865708273 0.07991100432 -0.4556384821
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55726,13 +55863,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8019207091 0.06354389171 -0.5940415831
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8284690194 0.3624479631 -0.4269315531
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55778,7 +55915,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.93045513 0.1142110187 0.3481509766
 #attrsf 0 0 0
+#attrsf -0.141247366 -0.8761763421 0.4608298216
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55814,7 +55953,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.1598145181 0.8958430229 -0.4146379513
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55833,6 +55971,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9423332415 -0.07525435423 -0.3261054661
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55870,6 +56009,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9776677499 -0.1089937408 0.1796831638
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55880,6 +56020,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5371488605 -0.6560970286 0.5301017072
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55931,6 +56072,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7039907838 -0.6034814588 0.3744424428
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55938,6 +56080,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8882625571 -0.272589779 0.3697085648
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -55998,9 +56141,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1068326369 -0.9875457414 0.1154996506
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5074046888 -0.7631518304 -0.4001746613
 #attrsf 0 0 0
+#attrsf 0.1850776449 -0.8452043506 -0.5013739574
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56038,7 +56184,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4710302771 -0.007496208562 -0.882085252
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56073,6 +56218,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.450304046 -0.7220320772 0.5252579942
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56086,7 +56232,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.9083603031 0.2872224165 0.3039485922
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56150,7 +56295,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4219217008 0.7843392987 -0.4547460382
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56187,7 +56331,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.1829732095 -0.5413846076 0.8206238521
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56217,6 +56360,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1559575393 -0.8086055471 0.5673044169
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56271,6 +56415,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.195719786 -0.8998877579 -0.3897380849
+#attrsf -0.9130722394 -0.2094401616 -0.3499055371
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56289,13 +56435,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7615816249 -0.3401174081 0.551646226
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7891526209 -0.4889813797 0.3716657167
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56323,7 +56469,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3924180038 -0.6358584189 -0.6645992317
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56371,7 +56516,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3042599419 -0.8189921905 -0.4864952873
 #attrsf 0 0 0
+#attrsf -0.9665406047 -0.2036139889 0.1560146901
+#attrsf -0.9668163575 -0.1682516463 -0.1922432841
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56461,18 +56609,21 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.09955791443 -0.9950306535 0.001506294207
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1208014987 -0.9830761277 -0.137725683
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.02141800567 -0.9276136242 0.3729265759
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56488,7 +56639,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.890228674 0.2547475617 -0.37761966
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56548,11 +56698,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6993693029 0.3385121689 -0.6295173774
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5376811115 -0.75624659 0.3728136928
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56566,17 +56716,21 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.08480847021 -0.9960942775 -0.02457134088
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.004379206892 -0.8198322207 0.5725870719
+#attrsf 0.1811491676 -0.9833720828 0.01282092573
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6485124308 -0.5496430911 0.5266157969
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56663,6 +56817,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9497253909 -0.3064442416 -0.06413733623
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56676,12 +56831,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2777339604 -0.9542384102 0.1108732658
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8947171111 -0.4221051478 0.1459742778
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1010003819 -0.9903503287 -0.09489538414
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56723,6 +56879,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9900655754 -0.1199281985 0.07339898911
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56783,15 +56940,19 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.02552429842 -0.9136588275 0.4056795951
 #attrsf 0 0 0
+#attrsf 0.00540465621 -0.943514496 0.3312871105
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3710680153 -0.628388819 0.6836929045
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8044213934 -0.5078224872 -0.3082573191
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56804,6 +56965,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7120926755 0.6511119169 -0.2626353167
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56844,6 +57006,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4593619976 -0.8840324226 -0.08644755208
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56903,19 +57066,20 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3498450673 -0.6982730461 -0.6245183625
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1013307728 -0.933357907 0.3443474465
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7378970824 0.6734635661 0.04421190013
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56933,13 +57097,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8792375195 -0.2006554455 0.4320634578
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8291604348 -0.4699162063 0.3027734438
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -56948,7 +57110,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7181825682 0.278547252 0.6376717229
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57054,12 +57215,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8850023468 -0.06732451674 0.4606931501
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1800836532 0.3571522146 -0.9165217836
+#attrsf 0.9272496321 0.1195129689 -0.3548589125
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57079,6 +57241,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9039539959 -0.12710712 -0.40830256
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57154,21 +57317,27 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1556579737 -0.7539808154 0.638187672
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1389052059 -0.9569559327 -0.2548346865
+#attrsf 0.1269676999 -0.9874324007 -0.09410868567
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5530440451 -0.558816601 0.6179533446
+#attrsf 0.1283332444 -0.9443562791 -0.3028559878
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5757807393 0.2702350865 -0.7716537711
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57185,9 +57354,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2015710764 0.8339401696 -0.5137246165
 #attrsf 0 0 0
-#attrsf 0.2508137106 0.7550325767 -0.6058203276
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57250,6 +57417,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8073668016 -0.3679778735 0.4612495219
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57289,6 +57457,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.05774858982 -0.985922946 0.1569109332
+#attrsf 0.2199060442 -0.951833087 -0.2136705312
+#attrsf 0.05404293929 -0.9968501258 0.0580447281
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57299,6 +57470,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.05832439418 0.358997961 -0.9315142317
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57307,6 +57479,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2712092469 -0.9404540312 0.2049188788
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57315,7 +57488,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5176454376 0.8294016878 0.2100857516
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57382,7 +57554,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2774230529 -0.6749173287 0.6837565496
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57391,7 +57562,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.2313141463 0.8917499668 -0.3889418174
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57404,6 +57574,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7210689288 0.2136032081 -0.6591155407
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57416,6 +57587,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.02342561079 -0.9393417881 0.3421814992
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57424,7 +57596,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7988875565 -0.4789048957 -0.363907707
 #attrsf 0 0 0
+#attrsf 0.02334824947 -0.9788441333 0.2032707438
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57433,6 +57607,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.699493396 -0.4848168325 0.5250349397
+#attrsf 0.9083067482 0.07504750058 -0.4115175472
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57447,7 +57623,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.6885136257 0.6944135165 0.2091382721
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57460,7 +57635,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.672346011 -0.5223629127 0.5244881134
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57564,12 +57738,17 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4108890937 -0.6402056875 -0.6490815359
+#attrsf -0.8104871552 -0.3725947181 0.4519775897
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4102247802 -0.7196354989 0.5602145945
 #attrsf 0 0 0
+#attrsf -0.4322068047 -0.6291742425 0.6460163202
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4658666865 0.3776779177 -0.8002047344
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57643,6 +57822,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2805261573 0.8951146948 -0.346517941
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57697,27 +57877,31 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.08791317561 -0.8608242558 0.5012512988
+#attrsf 0.1074957002 -0.9754936954 -0.191980943
 #attrsf 0 0 0
+#attrsf -0.2844569616 0.5814047603 -0.7622681431
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6299855278 0.16683122 -0.7584757811
+#attrsf -0.5408127713 0.5188419529 -0.6620608661
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1603471414 -0.978825152 -0.1272405054
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5906127866 -0.2868905531 -0.7542349166
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.2928263831 0.9240867941 -0.2455938328
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57725,7 +57909,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5793811376 0.8024478779 0.1428107506
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57790,6 +57973,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.07974469031 -0.7316570298 0.6769924405
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57805,6 +57989,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.02279430822 -0.9490221894 0.3143839954
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57812,6 +57997,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3110915808 0.2586847103 -0.9144966929
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57835,13 +58021,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1250367389 0.4686317853 -0.8744998717
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4110929886 0.5814897732 -0.7020485312
 #attrsf 0 0 0
-#attrsf -0.8357334405 0.540316658 0.09801775577
-#attrsf -0.2713289397 -0.4067548854 0.8723136015
+#attrsf 0.9209964408 -0.1662165053 -0.3523316985
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -57860,12 +58047,13 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.003807123712 0.9228995588 -0.3850219579
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3390668263 0.3962345752 -0.8532478246
+#attrsf -0.2342428394 -0.8021166619 0.5493078215
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58003,6 +58191,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1369559756 0.5894941168 -0.7960777307
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58035,7 +58224,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8081815224 0.06301883644 0.5855520257
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58068,6 +58256,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6875785935 0.1909117526 -0.7005628906
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58087,7 +58276,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9271053028 -0.3530110357 -0.125932493
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58124,17 +58312,17 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9703983177 0.2119079279 0.1158539111
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5652237237 0.2109084372 -0.7975210407
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6388879384 -0.7679820877 0.04500802665
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4658131096 0.8837900193 0.04396968283
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58160,8 +58348,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8657872044 0.2466221443 0.4354193546
 #attrsf 0 0 0
+#attrsf 0.6493717517 0.4554930912 -0.608968211
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58183,6 +58371,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9225147756 0.3794477523 0.07061092099
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58243,12 +58432,15 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7083128713 -0.561199209 0.4281920084
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2524460394 -0.6841357077 -0.6842728378
 #attrsf 0 0 0
+#attrsf 0.5492686893 -0.6230330119 -0.5568966537
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58266,6 +58458,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.599135115 0.3866497954 -0.7010984826
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58281,7 +58474,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5099266475 0.4874887316 -0.7087520876
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58356,6 +58548,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4538463585 -0.6383164577 0.6217520446
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58363,17 +58556,20 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2124307804 -0.7967451922 0.5657475584
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1350749166 -0.9334427741 -0.3323241605
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1584883786 -0.9163893172 -0.3675758773
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58393,7 +58589,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1019703244 0.5175923147 -0.8495294552
 #attrsf 0 0 0
+#attrsf 0.4029862697 -0.806096042 -0.433371926
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58406,6 +58604,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7930360977 -0.4550420052 -0.4050067747
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58414,23 +58613,19 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.2511232747 0.9124988184 -0.3229287759
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8557541723 -0.5127899431 -0.0687836879
 #attrsf 0 0 0
+#attrsf -0.9367812083 0.05867575925 0.3449612161
 #attrsf 0 0 0
-#attrsf -0.8487413911 -0.2742818105 0.4521144629
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5603318374 0.4531649446 -0.6933035145
 #attrsf 0 0 0
-#attrsf -0.6186001888 0.6958487817 0.3648675443
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58450,8 +58645,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1630560547 0.3970420642 -0.9032000585
 #attrsf 0 0 0
-#attrsf -0.2282936013 0.9621100574 -0.1490850373
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58479,6 +58674,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1618700111 0.320373171 -0.9333589976
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58496,7 +58692,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7933715472 -0.02733326469 0.6081237864
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58539,9 +58734,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5869906781 -0.6688726685 -0.4561263353
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4361450196 -0.4953212427 -0.7512885331
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58575,10 +58772,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.371060638 0.9285621241 -0.00929319849
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4239993246 -0.8963185447 -0.1297599263
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58588,9 +58783,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7577073599 0.5655275077 0.3256658875
 #attrsf 0 0 0
-#attrsf -0.8618175975 0.08989706741 0.4991882618
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58602,7 +58795,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.03839840184 0.960341523 -0.276169714
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58616,6 +58808,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9192295382 0.1880780987 0.3458953952
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58638,7 +58831,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3214750299 -0.7358820226 0.595929111
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58689,6 +58881,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2028491879 -0.8489867199 -0.4879280479
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58715,14 +58908,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5237661978 0.2989274038 -0.7976913049
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5476705813 -0.7972551563 0.2538524203
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58751,6 +58942,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6513719 -0.5649518976 0.5065016951
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58807,7 +58999,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.8288370128 -0.5537564569 0.07989351116
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58830,6 +59021,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6937246323 -0.6313020663 -0.3467042553
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58842,6 +59034,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5973740923 -0.2242183049 -0.769980758
+#attrsf 0.7935638379 0.1679467986 -0.5848507209
+#attrsf 0.8690430452 0.09636822462 -0.4852600259
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58855,7 +59050,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4518372729 -0.002114538219 -0.8920979146
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58864,25 +59058,21 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.613934202 -0.7467933068 0.2557041696
 #attrsf 0 0 0
-#attrsf -0.7017348196 0.2333630021 0.6731344167
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2405748809 -0.7752598017 -0.58403417
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9465310369 0.1088151353 0.3037075336
 #attrsf 0 0 0
-#attrsf -0.09890917579 -0.9770105765 -0.1888577969
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.1572940814 -0.9523916623 -0.2611679569
 #attrsf 0 0 0
-#attrsf -0.3554987492 -0.9343333934 -0.02533220206
+#attrsf -0.9049357621 -0.1013288861 0.4133083506
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58948,7 +59138,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.720076 0.6875039432 -0.09396213142
 #attrsf 0 0 0
+#attrsf -0.5371170758 0.4197338617 -0.7316616044
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58976,6 +59168,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3416407032 -0.502072746 -0.794483795
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -58991,6 +59184,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5543595978 -0.7456403665 -0.3697375061
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59012,12 +59206,9 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.0797297377 -0.9514773213 -0.2972104509
-#attrsf -0.2035453472 -0.9530933644 -0.2240140196
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5795211709 0.6318313489 0.51472746
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59062,15 +59253,16 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8253683741 -0.405750704 0.3925982405
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5831465051 -0.6703521397 0.4588770537
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.2806938511 0.83897299 -0.4661922175
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59082,6 +59274,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8060162858 -0.5324088048 0.2586090421
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59128,6 +59321,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5903276091 -0.5472489244 -0.5933227952
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59154,25 +59348,20 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4987303574 -0.7446848121 -0.443522858
 #attrsf 0 0 0
-#attrsf -0.1514974983 -0.9379127832 -0.312038711
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9948903584 -0.03783051128 0.09360577371
 #attrsf 0 0 0
-#attrsf -0.1125464637 0.9598163132 -0.2570718621
 #attrsf 0 0 0
-#attrsf -0.1367208077 0.8953276311 -0.4239055278
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.03830772962 0.9870371081 -0.1558535758
 #attrsf 0 0 0
-#attrsf 0.3536831128 -0.7124325719 -0.6060925058
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59301,13 +59490,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4500611748 -0.3967791972 -0.800007045
 #attrsf 0 0 0
+#attrsf -0.6040296065 0.3093578682 -0.7344698377
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5824932701 0.2317010693 -0.7791124386
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59316,10 +59506,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5272949744 0.3802760717 -0.7598355857
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.02920350816 0.8903558317 -0.4543277206
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59474,7 +59662,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3001991415 -0.9436038474 -0.1396143177
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59484,8 +59671,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8134290775 -0.207714571 0.54331186
-#attrsf -0.02200873708 -0.9169448798 -0.3984064751
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59557,8 +59742,10 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9857688251 -0.09815317388 -0.1364760003
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7832854665 0.5806934926 -0.2219436856
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59626,7 +59813,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8293673443 0.5579417085 0.02916803466
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59643,6 +59829,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.04564619441 0.9936579551 -0.1027634081
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59657,7 +59844,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5801092502 -0.7146332375 0.3908614002
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59669,6 +59855,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1319948552 0.5275510502 -0.8392063627
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59683,6 +59870,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2300018875 -0.9730491522 -0.01656583904
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59818,7 +60006,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6350564098 -0.1478815909 -0.7581783233
+#attrsf -0.6625543963 -0.5552792917 0.5026793526
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59828,7 +60016,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.1138174748 0.9751789573 -0.1899252323
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59857,6 +60044,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4287978927 0.2492748405 -0.8683285119
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59920,6 +60108,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8216982303 -0.5009072257 0.271852864
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -59975,10 +60164,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2639084463 -0.653379341 0.7095405257
-#attrsf -0.5576963236 0.7717197373 0.3056525537
 #attrsf 0 0 0
-#attrsf 0.5193498012 -0.5639097549 -0.642091528
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60021,7 +60207,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4521046586 0.7752531194 -0.4411167814
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60033,7 +60218,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6083822433 -0.6676262605 0.4291226159
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60050,7 +60234,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2270487429 0.8622152096 -0.4528065854
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60110,6 +60293,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8084793851 0.5816153227 0.08991493672
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60134,6 +60318,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2937783601 -0.7901519102 0.5379165663
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60147,8 +60332,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.1899462482 -0.8834089243 -0.4283794773
-#attrsf -0.01507061993 -0.9104165638 -0.4134181345
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60166,6 +60349,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.03276767385 0.3519939527 -0.9354285367
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60183,7 +60367,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.4544617195 0.8585335993 -0.2374541938
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60193,6 +60376,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3073417372 -0.7457838597 0.5910562228
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60328,7 +60512,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.781252714 0.470503374 0.4102081001
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60374,6 +60557,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5690072641 -0.7572573729 -0.3206119655
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60497,7 +60681,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5117140176 0.1343502678 -0.8485863289
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60581,6 +60764,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.09261352287 -0.9325528995 0.348952499
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60628,7 +60812,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8661925066 -0.03502790732 0.4984813448
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -60752,6 +60935,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4775401683 -0.6168903076 0.6256210699
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61037,6 +61221,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8277661707 0.1906031871 -0.5277059922
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61064,7 +61249,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.6865960912 -0.1000273052 0.7201252166
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61255,6 +61439,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9578930889 0.1729016225 -0.2292288652
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61264,8 +61449,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9548170025 0.07653958436 -0.2871692269
-#attrsf 0.816263336 -0.5710017864 0.08758499799
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61421,6 +61604,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4535413407 0.8892604169 -0.05929644633
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61638,7 +61822,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5082986044 0.8147240021 -0.2790292419
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61651,7 +61834,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6490050348 -0.4772324687 -0.5924876666
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61659,6 +61841,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1662498162 0.9608259086 -0.2217534054
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61768,9 +61951,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8329513181 0.4958323758 -0.2456467324
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5092186671 -0.6443437157 0.5705414527
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61833,6 +62018,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4870368732 -0.3240855847 -0.8110262833
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61853,7 +62039,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.60910753 0.7768273687 -0.1597725425
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -61998,6 +62183,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6892175762 0.5403555863 -0.4826955278
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62009,7 +62195,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4907822096 0.7299625099 -0.4756970073
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62034,6 +62219,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9935215051 0.09211400664 0.06655829305
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62054,7 +62240,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8476743539 0.372618709 0.3776288443
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62168,6 +62353,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9385877877 -0.3449804516 -0.006434987206
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62175,6 +62361,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9904244602 0.02386173308 -0.1359780626
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62293,6 +62480,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4340946613 0.2729166382 -0.8585326483
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62404,6 +62592,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9499675954 -0.1526336628 0.2725153739
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62427,6 +62616,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9911713813 0.1056541283 0.08010318667
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -62800,7 +62990,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.06943739912 0.8939991855 -0.4426554799
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63129,7 +63318,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7231895046 -0.6500287217 0.2333661227
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63177,6 +63365,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2394381583 -0.6976394084 0.6752544751
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63244,6 +63433,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.615458275 0.2477853047 -0.7482068343
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63265,7 +63455,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.0881162838 0.9225310333 -0.3757286513
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63340,6 +63529,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5298333696 0.8476156403 -0.02871168166
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63369,7 +63559,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.6203046295 0.6413369813 -0.4515629988
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63507,6 +63696,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4830595615 0.4016625875 -0.778023568
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63587,6 +63777,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9770867407 -0.2096086806 0.0369555572
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63646,6 +63837,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4126027155 -0.7208840242 0.5568529399
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63764,7 +63956,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.4477609636 -0.7238487426 0.5249315881
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63775,6 +63966,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8330329056 0.5489480481 -0.06864550727
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63821,7 +64013,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7216037912 0.6899760418 -0.05675414869
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63831,6 +64022,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9306662382 -0.09843593414 -0.3523786696
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63945,7 +64137,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.06394769405 0.9155030519 -0.3971962562
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -63973,6 +64164,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7779636525 -0.5329313516 0.3328012084
+#attrsf 0.3013927655 0.9377757353 -0.1724502996
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64005,7 +64198,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.7843572633 0.5162024853 -0.3439748316
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64019,7 +64211,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.207266095 0.8645860004 -0.4577464863
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64039,7 +64230,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9268008328 0.2080751072 -0.3126417686
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64074,6 +64264,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2126024395 -0.7340881916 -0.6449144726
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64215,6 +64406,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9519020438 0.2727146939 0.1396755042
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64398,12 +64590,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.05727332349 -0.8747226746 0.4812276817
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.9204000098 -0.3899697684 0.02805923815
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64443,7 +64635,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.03023823461 0.8715714665 -0.4893350906
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64547,6 +64738,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.768931876 -0.5139338992 0.380283745
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64679,7 +64871,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5331603713 -0.3628866493 0.7642339052
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64723,7 +64914,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5099373908 0.7737267919 -0.3759132089
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64801,7 +64991,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.697463393 0.7112957877 -0.08719549208
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64845,6 +65034,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8121352112 0.2498879189 -0.5272498548
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64939,9 +65129,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.239565998 0.3135414298 -0.9188579297
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7520827449 -0.5332783303 0.3872799016
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -64956,6 +65148,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.0855255279 -0.8650798086 0.4942897445
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65095,7 +65288,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.296621926 0.9455042023 -0.1343027221
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65105,6 +65297,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4659765359 0.3642956406 -0.8063216203
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65492,6 +65685,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8582793483 0.01570033933 -0.5129425239
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65606,7 +65800,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.8931608592 0.3181843383 0.3178401391
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65845,7 +66038,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.09019998703 0.9559841122 -0.2792104211
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65920,6 +66112,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9044943183 -0.3740083487 0.2049580824
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65939,6 +66132,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.4353517038 0.388139063 -0.8122912169
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -65965,11 +66159,14 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4883225016 0.3133081147 -0.8144809232
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9289471254 -0.06406114431 -0.3646277338
+#attrsf -0.9051847095 -0.3947522065 -0.1575156663
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66018,6 +66215,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3070759727 -0.7358187822 0.6035520337
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66154,6 +66352,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8627999439 -0.03364720267 -0.5044245322
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66166,6 +66365,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4459149714 0.5602708278 -0.6980375253
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66386,6 +66586,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9203892119 0.1082817516 -0.3757110132
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66603,7 +66804,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.2022222847 0.8455056272 -0.49419269
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66704,6 +66904,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7842601546 0.26566311 -0.5606773546
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66742,6 +66943,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8190923042 -0.1870788923 -0.5422999639
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66792,6 +66994,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4070305097 0.9108461451 -0.06844987387
+#attrsf -0.9005530618 -0.4264566931 0.084491666
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66910,8 +67114,8 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2976988288 -0.5145264984 -0.8041379774
 #attrsf 0 0 0
-#attrsf 0.4696847109 0.5898751662 -0.6568436611
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -66933,7 +67137,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7622463709 -0.6429484336 0.07481853191
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67289,6 +67492,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7364595991 -0.5050225745 0.4500883047
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67351,6 +67555,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7217133125 -0.4947400317 0.4841096905
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67428,6 +67633,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9715494409 0.008713496897 -0.2366762742
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67580,6 +67786,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5062591264 0.218882349 -0.8341416001
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67647,6 +67854,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.1023527405 -0.8312599091 0.5463798997
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -67660,6 +67868,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.675798783 -0.5771744332 0.4584382919
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68066,6 +68275,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6929280989 0.1645173498 -0.7019862861
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68309,6 +68519,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4060661936 -0.4444908072 -0.7984598631
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68388,7 +68599,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.5872007551 -0.2229239756 0.7781389494
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68455,6 +68665,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.7561193788 -0.539562831 -0.3703451071
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68488,7 +68699,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.5622394178 -0.7139396004 0.4173452548
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68500,6 +68710,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8687696222 -0.4912550233 0.06251278679
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68514,6 +68725,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8733076558 -0.371613901 0.3150187168
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68565,6 +68777,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3288556131 0.5032249907 -0.7991361047
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68611,6 +68824,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.8001814819 0.09657170497 -0.5919319468
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68638,7 +68852,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7889309063 -0.558271303 0.2567513131
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68657,6 +68870,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.6565751383 -0.6242926538 0.4232822586
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -68841,6 +69055,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.934572031 -0.2421270407 0.2606714018
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69168,7 +69383,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.6493574133 -0.7144109209 -0.2606761312
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69196,6 +69410,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5159705528 0.4355341054 -0.7376207873
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69207,6 +69422,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4679978286 -0.4192814489 -0.7779338487
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69242,6 +69458,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9528746679 -0.2883862305 0.09414477012
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69332,6 +69549,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.9727577154 -0.04553307351 0.2273086418
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69367,6 +69585,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8214590096 0.2564599912 -0.509345936
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69426,7 +69645,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.3115166198 0.9502389071 0.001851105158
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69457,6 +69675,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.3762974396 -0.7267092415 0.5747119572
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69531,6 +69750,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4461953344 -0.4355772902 -0.7817813968
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69623,6 +69843,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7524914478 -0.575409744 0.3204063467
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69706,6 +69927,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.1252760481 -0.8798754451 -0.458394084
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69919,9 +70141,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8114218768 -0.3548336263 0.4644219273
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8144383537 -0.4405794688 0.3775975514
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69947,9 +70171,11 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.6262565749 -0.7730430134 -0.1010309732
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3074340436 0.3269950058 -0.893621038
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -69964,6 +70190,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8975897486 0.1082559864 -0.4273328325
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70036,7 +70263,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf -0.7697182911 0.638229075 0.01404824915
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70105,6 +70331,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.09074056676 -0.9900764771 0.1073063497
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70150,6 +70377,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.7102636191 0.2876063865 -0.6425014415
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70202,6 +70430,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.4292659043 -0.8697435929 -0.2434685335
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70287,6 +70516,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.3662753234 0.2502108661 -0.8962348112
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70305,6 +70535,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.529368241 -0.6278644291 0.5705747895
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70383,7 +70614,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3687911765 0.5234416699 -0.7681158087
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70421,6 +70651,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5735972972 0.3799070937 -0.7257112107
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70447,10 +70678,12 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.184643047 -0.7797615856 -0.5982296937
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.5751380685 -0.6562463054 0.4884229631
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70482,7 +70715,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.3661384835 0.6206283199 -0.6933708411
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70600,6 +70832,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8736481882 -0.4754807977 -0.1032323894
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70655,6 +70888,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9553107606 0.2745395554 0.1095874488
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70669,6 +70903,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.8840615827 -0.2678277975 0.3830188828
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70750,6 +70985,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.009932099953 0.4072587054 -0.9132588498
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70787,7 +71023,6 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0.01052051258 -0.625433949 0.7802062169
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70846,6 +71081,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.2563031617 -0.9161171952 -0.3082822763
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70855,6 +71091,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.9963593063 0.01168097037 0.08444918018
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70941,6 +71178,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.2602797379 0.4429402991 -0.8579384125
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -70997,6 +71235,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf -0.5249111106 0.6396995752 -0.5614737621
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -71046,6 +71285,7 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
+#attrsf 0.04017801019 0.4472514213 -0.8935053713
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
@@ -71198,245 +71438,5 @@ f 11749 3210 11164
 #attrsf 0 0 0
 #attrsf 0 0 0
 #attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf -0.234968767 -0.5750187988 0.7836727747
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
-#attrsf 0 0 0
+#attrsf -0.8054554779 -0.3860249191 0.4496957587
 #attrsf 0 0 0
