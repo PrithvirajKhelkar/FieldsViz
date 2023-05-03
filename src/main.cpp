@@ -39,6 +39,8 @@ std::map<int, double> selectedVertexIndexMap;
 int n_rings;
 double angle;
 
+int counter = 0;
+
 string SMOOTHEST = "smoothest";
 string CURVATURE = "curvature";
 string BOUNDARY = "boundary";
@@ -100,8 +102,9 @@ void readEOBJ_FaceAttrs(string path, string fieldName) {
 }
 
 void readOBJ_Fields(string path, string fieldName) {
-   vectorFields[fieldName].clear();
+   // vectorFields[fieldName].clear();
    // vectorSingularities[fieldName].clear();
+   string name = (std::to_string(counter)+fieldName).c_str();
    std::ifstream in(path);
    string line;
    int i  = 0;
@@ -117,19 +120,20 @@ void readOBJ_Fields(string path, string fieldName) {
          double x, y, z;
          ss >> i >> x >> y >> z;
          std::vector<double> vec{x, y, z};
-         vectorFields[fieldName].push_back(vec);
+         vectorFields[name].push_back(vec);
       };
       if(token == "#singularity") {
          int i;
          double j;
          ss >> i >> j;
-         vectorSingularities[fieldName][faces[i-1][0]] = j;
+         vectorSingularities[name][faces[i-1][0]] = j;
          
       }
    }
-   polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(fieldName, vectorFields[fieldName]);
-   showSingularities(fieldName);
-
+   polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
+   showSingularities(name);
+   
+   counter++;
 }
 
 
