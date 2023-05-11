@@ -50,7 +50,6 @@ string mode = SMOOTHEST;
 int n = 1;
 double s=0;
 double t=0;
-double alignmentMagnitude = 1;
 
 bool alignments_generated = false;
 
@@ -219,7 +218,6 @@ void run_fieldgen(){
    }
    args += " "+std::to_string(s);
    args += " "+std::to_string(t);
-   args += " "+std::to_string(alignmentMagnitude);
    system(args.c_str());
 
    readOBJ_Fields("../test/final_fields.obj", name);
@@ -334,7 +332,6 @@ void polyscope::PointCloud::buildCustomUI() {
 
          ImGui::InputDouble("s", &s);
          ImGui::InputDouble("t", &t);
-         ImGui::InputDouble("alignmentMagnitude", &alignmentMagnitude);
          if (ImGui::Button("Calculate Fields")){
             run_fieldgen();
          }
