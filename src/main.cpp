@@ -50,6 +50,7 @@ string mode = SMOOTHEST;
 int n = 1;
 double s=0;
 double t=0;
+double alignmentMagnitude = 1;
 
 bool alignments_generated = false;
 
@@ -108,7 +109,8 @@ void readOBJ_Fields(string path, string fieldName) {
    std::ifstream in(path);
    string line;
    int i  = 0;
-   int degree = 1;
+   double degree = 1;
+   std::vector<std::vector<double>> normals;
    while (getline(in, line))
    {
       std::stringstream ss(line);
@@ -119,13 +121,39 @@ void readOBJ_Fields(string path, string fieldName) {
       {
          ss >> degree;
       }
+      if (token == "vn")
+      {
+         double x, y, z;
+         ss >> x >> y >> z;
+         std::vector<double> vec{x, y, z};
+         normals.push_back(vec);
+      }
       if (token == "#field")
       {
          int i;
          double x, y, z;
          ss >> i >> x >> y >> z;
-         std::vector<double> vec{x, y, z};
-         vectorFields[name].push_back(vec);
+         std::vector<double> vec0{x, y, z};
+         std::vector<double> vec1{-x, -y, -z};
+         std::vector<double> vec2{x, y, z};
+         std::vector<double> vec3{x, y, z};
+         vectorFields[name].push_back(vec0);
+         if (degree == 2)
+         {
+            vectorFields[name+"1"].push_back(vec1);
+         }
+         if (degree == 4)
+         {
+            int curInd = vectorFields[name].size()-1;
+            vec2[0] = vectorFields[name][curInd][1]*normals[curInd][2] - vectorFields[name][curInd][2]*normals[curInd][1];
+            vec2[1] = vectorFields[name][curInd][2]*normals[curInd][0] - vectorFields[name][curInd][0]*normals[curInd][2];
+            vec2[2] = vectorFields[name][curInd][0]*normals[curInd][1] - vectorFields[name][curInd][1]*normals[curInd][0];
+            vec3[0] = -vec2[0];
+            vec3[1] = -vec2[1];
+            vec3[2] = -vec2[2];
+            vectorFields[name+"2"].push_back(vec2);
+            vectorFields[name+"3"].push_back(vec3);
+         }
       }
       if(token == "#singularity") {
          int i;
@@ -135,11 +163,14 @@ void readOBJ_Fields(string path, string fieldName) {
          
       }
    }
-   std::vector<double> vecX{1.0, 0.0};
-   std::vector<std::vector<double>> vecXOverVertices(vecX, vectorFields[name].size());
-   // polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
-   polyscope::getSurfaceMesh("mesh")->setVertexTangentBasisX(vectorFields[name]);
-   polyscope::getSurfaceMesh("mesh")->addVertexIntrinsicVectorQuantity(name, vecXOverVertices, degree);
+   polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
+   if(degree == 2){
+      polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name+"1", vectorFields[name+"1"]);
+   }
+   if (degree == 4){
+      polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name+"2", vectorFields[name+"2"]);
+      polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name+"3", vectorFields[name+"3"]);
+   }
    showSingularities(name);
    
    counter++;
@@ -188,6 +219,7 @@ void run_fieldgen(){
    }
    args += " "+std::to_string(s);
    args += " "+std::to_string(t);
+   args += " "+std::to_string(alignmentMagnitude);
    system(args.c_str());
 
    readOBJ_Fields("../test/final_fields.obj", name);
@@ -302,6 +334,7 @@ void polyscope::PointCloud::buildCustomUI() {
 
          ImGui::InputDouble("s", &s);
          ImGui::InputDouble("t", &t);
+         ImGui::InputDouble("alignmentMagnitude", &alignmentMagnitude);
          if (ImGui::Button("Calculate Fields")){
             run_fieldgen();
          }
