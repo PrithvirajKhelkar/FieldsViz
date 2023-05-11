@@ -108,12 +108,17 @@ void readOBJ_Fields(string path, string fieldName) {
    std::ifstream in(path);
    string line;
    int i  = 0;
+   int degree = 1;
    while (getline(in, line))
    {
       std::stringstream ss(line);
       string token;
 
       ss >> token;
+      if (token == "#degree")
+      {
+         ss >> degree;
+      }
       if (token == "#field")
       {
          int i;
@@ -121,7 +126,7 @@ void readOBJ_Fields(string path, string fieldName) {
          ss >> i >> x >> y >> z;
          std::vector<double> vec{x, y, z};
          vectorFields[name].push_back(vec);
-      };
+      }
       if(token == "#singularity") {
          int i;
          double j;
@@ -130,7 +135,11 @@ void readOBJ_Fields(string path, string fieldName) {
          
       }
    }
-   polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
+   std::vector<double> vecX{1.0, 0.0};
+   std::vector<std::vector<double>> vecXOverVertices(vecX, vectorFields[name].size());
+   // polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
+   polyscope::getSurfaceMesh("mesh")->setVertexTangentBasisX(vectorFields[name]);
+   polyscope::getSurfaceMesh("mesh")->addVertexIntrinsicVectorQuantity(name, vecXOverVertices, degree);
    showSingularities(name);
    
    counter++;
