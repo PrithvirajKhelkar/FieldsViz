@@ -137,7 +137,7 @@ void readOBJ_Fields(string path, string fieldName) {
          std::vector<double> vec2{x, y, z};
          std::vector<double> vec3{x, y, z};
          vectorFields[name].push_back(vec0);
-         if (degree == 2)
+         if (degree == 2 || degree == 4)
          {
             vectorFields[name+"1"].push_back(vec1);
          }
