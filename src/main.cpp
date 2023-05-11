@@ -164,7 +164,7 @@ void readOBJ_Fields(string path, string fieldName) {
       }
    }
    polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name, vectorFields[name]);
-   if(degree == 2){
+   if(degree == 2 || degree == 4){
       polyscope::getSurfaceMesh("mesh")->addVertexVectorQuantity(name+"1", vectorFields[name+"1"]);
    }
    if (degree == 4){
