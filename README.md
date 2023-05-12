@@ -10,6 +10,11 @@ git clone --recursive git@github.com:PrithvirajKhelkar/FieldsViz.git
 ```
 Don't forget the `recursive` keyword. We need three submodules (Polyscope, Tcods, Fieldgen).
 
+Or if you forgot to use the `recursive` keyword, follow up with the following:
+```
+git submodule update --init --recursive
+```
+
 (expand on the overview soon)
 
 ## Build Instructions
