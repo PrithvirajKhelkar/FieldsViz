@@ -1,5 +1,11 @@
-make -j8 -C deps/tcods 
-make -j8 commandline  -C deps/fieldgen/
+cd deps/tcods
+make -j8
+cd ..
+cd ..
+cd deps/fieldgen
+make -j8 commandline
+cd ..
+cd ..
 mkdir build
 cd build
 cmake ..
