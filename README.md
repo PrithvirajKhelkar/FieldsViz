@@ -6,7 +6,19 @@ Visualize vector fields from [this paper](https://www.cs.cmu.edu/~kmcrane/Projec
 (expand on the overview soon)
 
 ## Build Instructions
-(to be added)
+### Dependencies
+`suitesparse`, `metis`, `blas`, `lapack`
+should be available at the default paths (`/usr/local/`)
+
+### Building
+Run the following command from the project root directory:
+```
+sh build.sh
+```
+This builds fieldgen and tcods, as well as polyscope with fieldviz.
+```
+cd build
+```
 
 ## Usage
 (to be added)
