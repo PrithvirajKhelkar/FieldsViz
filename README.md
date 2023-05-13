@@ -10,13 +10,14 @@ Visualize vector fields from [this paper](https://www.cs.cmu.edu/~kmcrane/Projec
 ## Build Instructions
 ### Dependencies
 `suitesparse`, `metis`, `blas`, `lapack`
-should be available at the default paths (`/usr/local/`)
+files should be available at the default paths (`/usr/local/lib` and `/usr/local/include`)
 
 ### Building
-IMPORTANT. UPDATE THE SUBMODULES:
+IMPORTANT. UPDATE THE SUBMODULES. CODE WON'T RUN WITHOUT IT.:
 ```
 git submodule update --init --recursive
 ```
+Then run the following commands from project root directory.
 ```
 make -C deps/tcods
 make -C deps/fieldgen
@@ -32,6 +33,12 @@ This builds fieldgen and tcods, as well as polyscope with fieldviz.
 ./bin/fieldviz ../test/bunny.obj
 ```
 
+* Click on any vertex to select it as a singularity.
+* Set the Indices in the singularities UI on the left.
+* Click on `create alignment fields`
+* Choose between smooth or aligned fields.
+* Set values of `s`, `t`.
+
 
 ## Important Files
 ### TCODS:
@@ -45,7 +52,7 @@ This builds fieldgen and tcods, as well as polyscope with fieldviz.
 
 ### Main.cpp
 * main file to read mesh.
-* handles polyscope vis.
+* handles polyscope visualizations.
 ----------------------------------------------------------------------------------------------
 
 Created as a part of the final project submission for *CAS CS 582: Geometry Processing (Spring 2023)* course, taught by *Prof. Edward Chien* at Boston University, Graduate School of Arts and Sciences.
