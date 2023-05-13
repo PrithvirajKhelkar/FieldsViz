@@ -23,7 +23,7 @@ make -C deps/tcods
 make -C deps/fieldgen
 mkdir build
 cd build
-cmake ..
+cmake .
 make -j8
 ```
 This builds fieldgen and tcods, as well as polyscope with fieldviz.

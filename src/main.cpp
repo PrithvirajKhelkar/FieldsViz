@@ -67,9 +67,6 @@ bool alignments_generated = false;
 
 
 void showSingularities(string fieldName = "") {
-   """
-   Function to show singularities by fieldName.
-   """
    std::map<int, double> temp;
 
    if (fieldName == "") {
@@ -95,9 +92,6 @@ void showSingularities(string fieldName = "") {
 
 
 void readEOBJ_FaceAttrs(string path, string fieldName) {
-   """
-   Read Face vectors
-   """
    field.clear();
    std::ifstream in(path);
    string line;
@@ -120,9 +114,6 @@ void readEOBJ_FaceAttrs(string path, string fieldName) {
 }
 
 void readOBJ_Fields(string path, string fieldName) {
-   """
-   React vertex vectors
-   """
    // vectorFields[fieldName].clear();
    // vectorSingularities[fieldName].clear();
    string name = (std::to_string(counter)+fieldName).c_str();
@@ -198,9 +189,6 @@ void readOBJ_Fields(string path, string fieldName) {
 
 
 void run_tcods(){
-   """
-   Function to run trivial connections script
-   """
    ofstream myfile;
    myfile.open ("../test/tcods_input.txt");
    myfile << "in " << input_file_path << "\n";
@@ -220,9 +208,6 @@ void run_tcods(){
 }
 
 void run_fieldgen(){
-   """
-   Function to run Fieldgen connections script
-   """
    string args = "../run_fieldgen.sh " + std::to_string(n)+" ";
    string name = "smoothest";
 
@@ -253,9 +238,6 @@ void run_fieldgen(){
 
 
 bool removeIndexFromSelectedVertices(int index) {
-   """
-   Function to remove a selected singularity
-   """
    std::vector<int>::iterator it = std::find(selectedVertices.begin(), selectedVertices.end(), index);
 
    // if it is then remove it.
@@ -269,10 +251,6 @@ bool removeIndexFromSelectedVertices(int index) {
 }
 
 void vertexClickEvent(int index) {
-   """
-   Function to handle vertex clicks.
-   Adds vertex to singularity list.
-   """
    if (lastClickedVertex != index && index < positions.size()){
       lastClickedVertex = index;
 
@@ -370,9 +348,6 @@ void polyscope::PointCloud::buildCustomUI() {
 }
 
 void readOBJ() {
-   """
-   Read the input obj file
-   """
    std::ifstream in(input_file_path);
    string line;
    int i  = 0;
