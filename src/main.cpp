@@ -370,6 +370,9 @@ void polyscope::PointCloud::buildCustomUI() {
 }
 
 void readOBJ() {
+   """
+   Read the input obj file
+   """
    std::ifstream in(input_file_path);
    string line;
    int i  = 0;
@@ -399,9 +402,6 @@ void readOBJ() {
    }
    psMesh = polyscope::registerSurfaceMesh("mesh", positions, faces);
 }
-
-
-
 
 
 int main(int argc, char **argv)
