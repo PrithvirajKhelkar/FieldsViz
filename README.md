@@ -4,16 +4,6 @@
 Visualize vector fields from [this paper](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/), with added alignment adapted from [this paper](https://www.cs.cmu.edu/~kmcrane/Projects/TrivialConnections/).
 (This code has only been tested in WSL Ubuntu environment)
 
-## Git
-```
-git clone --recursive git@github.com:PrithvirajKhelkar/FieldsViz.git
-```
-Don't forget the `recursive` keyword. We need three submodules (Polyscope, Tcods, Fieldgen).
-
-Or if you forgot to use the `recursive` keyword, follow up with the following:
-```
-git submodule update --init --recursive
-```
 
 (expand on the overview soon)
 
@@ -23,7 +13,10 @@ git submodule update --init --recursive
 should be available at the default paths (`/usr/local/`)
 
 ### Building
-Run the following commands from the project root directory:
+IMPORTANT. UPDATE THE SUBMODULES:
+```
+git submodule update --init --recursive
+```
 ```
 make -C deps/tcods
 make -C deps/fieldgen
