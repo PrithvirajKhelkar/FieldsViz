@@ -20,6 +20,22 @@
 
 using namespace std;
 
+// CONSTANTS
+
+string SMOOTHEST = "smoothest";
+string CURVATURE = "curvature";
+string BOUNDARY = "boundary";
+string ALIGNMENT = "alignment";
+
+float imguiStackMargin = 10;
+float lastWindowHeightPolyscope = 200;
+float lastWindowHeightUser = 200;
+float leftWindowsWidth = 305;
+float rightWindowsWidth = 500;
+
+//---------------
+
+
 string input_file_path;
 polyscope::SurfaceMesh *psMesh;
 polyscope::PointCloud* psCloud;
@@ -39,17 +55,13 @@ std::map<int, double> selectedVertexIndexMap;
 int n_rings;
 double angle;
 
-int counter = 0;
+int counter = 0; // number of fields being shown/
 
-string SMOOTHEST = "smoothest";
-string CURVATURE = "curvature";
-string BOUNDARY = "boundary";
-string ALIGNMENT = "alignment";
 string mode = SMOOTHEST;
 
-int n = 1;
-double s=0;
-double t=0;
+int n = 1; //n-vectors
+double s=0; //smoothness
+double t=0; // lambda controller
 
 bool alignments_generated = false;
 
@@ -80,6 +92,9 @@ void showSingularities(string fieldName = "") {
 
 
 void readEOBJ_FaceAttrs(string path, string fieldName) {
+   """
+   Read Face vectors
+   """
    field.clear();
    std::ifstream in(path);
    string line;
@@ -102,6 +117,9 @@ void readEOBJ_FaceAttrs(string path, string fieldName) {
 }
 
 void readOBJ_Fields(string path, string fieldName) {
+   """
+   React vertex vectors
+   """
    // vectorFields[fieldName].clear();
    // vectorSingularities[fieldName].clear();
    string name = (std::to_string(counter)+fieldName).c_str();
@@ -177,6 +195,9 @@ void readOBJ_Fields(string path, string fieldName) {
 
 
 void run_tcods(){
+   """
+   Function to run trivial connections script
+   """
    ofstream myfile;
    myfile.open ("../test/tcods_input.txt");
    myfile << "in " << input_file_path << "\n";
@@ -196,6 +217,9 @@ void run_tcods(){
 }
 
 void run_fieldgen(){
+   """
+   Function to run Fieldgen connections script
+   """
    string args = "../run_fieldgen.sh " + std::to_string(n)+" ";
    string name = "smoothest";
 
@@ -226,6 +250,9 @@ void run_fieldgen(){
 
 
 bool removeIndexFromSelectedVertices(int index) {
+   """
+   Function to remove a selected singularity
+   """
    std::vector<int>::iterator it = std::find(selectedVertices.begin(), selectedVertices.end(), index);
 
    // if it is then remove it.
@@ -239,6 +266,10 @@ bool removeIndexFromSelectedVertices(int index) {
 }
 
 void vertexClickEvent(int index) {
+   """
+   Function to handle vertex clicks.
+   Adds vertex to singularity list.
+   """
    if (lastClickedVertex != index && index < positions.size()){
       lastClickedVertex = index;
 
@@ -255,11 +286,7 @@ void vertexClickEvent(int index) {
    }
 }
 
-float imguiStackMargin = 10;
-float lastWindowHeightPolyscope = 200;
-float lastWindowHeightUser = 200;
-float leftWindowsWidth = 305;
-float rightWindowsWidth = 500;
+
 
 
 
