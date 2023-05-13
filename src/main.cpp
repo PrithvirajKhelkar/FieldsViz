@@ -35,23 +35,23 @@ float rightWindowsWidth = 500;
 
 //---------------
 
+// Glocal variables
+string input_file_path;  // variable for mesh file path
+polyscope::SurfaceMesh *psMesh; // variable for polyscope mesh
+polyscope::PointCloud* psCloud; // singularities as point clouds
 
-string input_file_path;
-polyscope::SurfaceMesh *psMesh;
-polyscope::PointCloud* psCloud;
-
-std::map<int, std::vector<double>> vertexMap;
-std::vector<std::vector<double>> positions;
-std::vector<std::vector<int>> faces;
-std::vector<std::vector<double>> field;
+std::map<int, std::vector<double>> vertexMap; // index and vertex map
+std::vector<std::vector<double>> positions; // vertices 
+std::vector<std::vector<int>> faces; // faces
+std::vector<std::vector<double>> field; // fields
 
 std::map<string, std::vector<std::vector<double>>> vectorFields;
 std::map<string, std::map<int, double>> vectorSingularities;
 
-int lastClickedVertex;
+int lastClickedVertex; // variable just to have the recently clicked vertex
 
-std::vector<int> selectedVertices;
-std::map<int, double> selectedVertexIndexMap;
+std::vector<int> selectedVertices; // selected vertex. requested singularities
+std::map<int, double> selectedVertexIndexMap; // indices
 int n_rings;
 double angle;
 
@@ -67,6 +67,9 @@ bool alignments_generated = false;
 
 
 void showSingularities(string fieldName = "") {
+   """
+   Function to show singularities by fieldName.
+   """
    std::map<int, double> temp;
 
    if (fieldName == "") {
